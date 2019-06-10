@@ -1,6 +1,8 @@
 package com.jdbc;
 
+import org.junit.Assert;
 import org.junit.Test;
+import org.mockito.Mockito;
 
 import java.sql.Connection;
 
@@ -13,5 +15,16 @@ public class PeopleTestMyBaseUpdate {
     @Test
     public void myBaseUpdate() {
 
+        PeoplePersistenceService mock = Mockito.mock(PeoplePersistenceService.class);
+
+        Object[] mockValues = {1, "Balandin", "Kirill"};
+
+        when(mock.updateByName("Kirill", "Sazonov")).thenReturn(true);
+
+        PeopleService peopleService = new PeopleService(mock);
+
+        Boolean res = peopleService.updateByName("Kirill", "Sazonov");
+
+        Assert.assertEquals(res,mock.updateByName("Kirill", "Sazonov"));
     }
 }

@@ -89,4 +89,16 @@ public class People implements  MyTestInterface{
         }
         return result;
     }
+
+    public int getTableId() {
+        return tableId;
+    }
+
+    public String getTableName() {
+        return tableName;
+    }
+
+    public String getTableSecondName() {
+        return tableSecondName;
+    }
 }
