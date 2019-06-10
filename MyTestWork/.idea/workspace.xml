@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e753d307-fc64-4b0e-bf6a-c4d2bc86f3c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/jdbc/PeopleTestMyBaseSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jdbc/PeopleTestMyBaseSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/jdbc/PeopleTestMyBaseUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jdbc/PeopleTestMyBaseUpdate.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="e753d307-fc64-4b0e-bf6a-c4d2bc86f3c2" name="Default Changelist" comment="" />
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,16 +55,32 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jdbc/PeoplePersistenceService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="774">
               <caret line="51" selection-start-line="51" selection-end-line="51" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jdbc/PeoplePersistenceService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+              <folding>
+                <element signature="method#queryByName#0;class#PeoplePersistenceService#0" />
+                <element signature="method#updateByName#0;class#PeoplePersistenceService#0" />
+              </folding>
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
+=======
+      <file pinned="false" current-in-tab="false">
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jdbc/PeopleService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -73,7 +93,11 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/jdbc/PeopleTestMyBaseUpdate.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
+<<<<<<< HEAD
               <caret line="26" column="55" lean-forward="true" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+=======
+              <caret line="27" column="68" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
             </state>
           </provider>
         </entry>
@@ -81,8 +105,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/jdbc/PeopleTestMyBaseSearch.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="391">
               <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+=======
+            <state relative-caret-position="136">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
             </state>
           </provider>
         </entry>
@@ -110,9 +139,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jdbc/MyTestInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jdbc/People.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jdbc/Main.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/com/jdbc/PeoplePersistenceService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jdbc/PeopleService.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jdbc/PeopleTestMyBaseSearch.java" />
+=======
+        <option value="$PROJECT_DIR$/src/test/java/com/jdbc/PeopleTestMyBaseSearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdbc/PeoplePersistenceService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdbc/PeopleService.java" />
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
         <option value="$PROJECT_DIR$/src/test/java/com/jdbc/PeopleTestMyBaseUpdate.java" />
       </list>
     </option>
@@ -140,6 +175,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -157,6 +193,8 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+=======
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,13 +253,37 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyTestWork" type="58d84e3e:PackageViewProjectNode" />
+              <item name="MyTestWork" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="MyTestWork" type="58d84e3e:PackageViewProjectNode" />
+              <item name="MyTestWork" type="616d4139:PackageViewModuleNode" />
+              <item name="com.jdbc" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="D:/git2" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -235,7 +297,10 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="D:\git2" />
+=======
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
       <recent name="D:\mytest" />
       <recent name="D:\MyTestWork" />
     </key>
@@ -326,9 +391,15 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.PeopleTestMyBaseUpdate" />
+<<<<<<< HEAD
         <item itemvalue="JUnit.PeopleTestMyBaseSearch" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
+=======
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="JUnit.PeopleTestMyBaseSearch" />
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
         <item itemvalue="JUnit.PeopleTest" />
       </list>
     </recent_temporary>
@@ -347,6 +418,7 @@
     <servers />
   </component>
   <component name="TestHistory">
+<<<<<<< HEAD
     <history-entry file="PeopleTestMyBaseUpdate - 2019.06.08 at 12h 47m 44s.xml">
       <configuration name="PeopleTestMyBaseUpdate" configurationId="JUnit" />
     </history-entry>
@@ -375,13 +447,49 @@
       <configuration name="PeopleTestMyBaseUpdate" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PeopleTestMyBaseUpdate - 2019.06.10 at 18h 28m 24s.xml">
+=======
+    <history-entry file="PeopleTest - 2019.06.08 at 11h 23m 09s.xml">
+      <configuration name="PeopleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeopleTest - 2019.06.08 at 11h 26m 32s.xml">
+      <configuration name="PeopleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeopleTest - 2019.06.08 at 11h 27m 15s.xml">
+      <configuration name="PeopleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeopleTest - 2019.06.08 at 11h 32m 59s.xml">
+      <configuration name="PeopleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeopleTest - 2019.06.08 at 11h 33m 38s.xml">
+      <configuration name="PeopleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeopleTest - 2019.06.08 at 12h 38m 17s.xml">
+      <configuration name="PeopleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeopleTestMyBaseSearch - 2019.06.08 at 12h 47m 38s.xml">
+      <configuration name="PeopleTestMyBaseSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeopleTestMyBaseUpdate - 2019.06.08 at 12h 47m 44s.xml">
+      <configuration name="PeopleTestMyBaseUpdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeopleTestMyBaseUpdate - 2019.06.10 at 10h 16m 17s.xml">
+      <configuration name="PeopleTestMyBaseUpdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeopleTestMyBaseUpdate - 2019.06.10 at 10h 17m 19s.xml">
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
       <configuration name="PeopleTestMyBaseUpdate" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+<<<<<<< HEAD
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11567164" />
+=======
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11353944" />
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -437,6 +545,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
   </component>
+<<<<<<< HEAD
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -449,6 +558,8 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+=======
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
@@ -468,9 +579,12 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://D:/git2/MyTestWork/src/main/java/com/jdbc/Main.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+=======
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
@@ -478,10 +592,17 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jdbc/PeoplePersistenceService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="774">
           <caret line="51" selection-start-line="51" selection-end-line="51" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdbc/MyTestInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
         </state>
       </provider>
     </entry>
@@ -497,6 +618,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jdbc/MyTestInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -522,6 +644,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdbc/PeopleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jdbc/PeopleTestMyBaseUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="27" column="68" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jdbc/PeopleTestMyBaseSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdbc/PeoplePersistenceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+          <folding>
+            <element signature="method#queryByName#0;class#PeoplePersistenceService#0" />
+            <element signature="method#updateByName#0;class#PeoplePersistenceService#0" />
+          </folding>
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
         </state>
       </provider>
     </entry>

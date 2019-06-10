@@ -6,7 +6,12 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 
 import static org.junit.Assert.*;
+<<<<<<< HEAD
 import static org.mockito.Mockito.*;
+=======
+import static org.mockito.Mockito.mock;
+import static org.mockito.Mockito.when;
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
 
 public class PeopleTestMyBaseSearch {
 
@@ -27,6 +32,10 @@ public class PeopleTestMyBaseSearch {
         Assert.assertEquals(people.getTableSecondName(), mockValues[1]);
         Assert.assertEquals(people.getTableName(), mockValues[2]);
 
+<<<<<<< HEAD
         verify(mock).queryByName("Kirill");
+=======
+
+>>>>>>> b67fb18fa0ddde75387ba87f263443502836b924
     }
 }
