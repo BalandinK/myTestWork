@@ -6,8 +6,7 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 
 import static org.junit.Assert.*;
-import static org.mockito.Mockito.mock;
-import static org.mockito.Mockito.when;
+import static org.mockito.Mockito.*;
 
 public class PeopleTestMyBaseSearch {
 
@@ -28,6 +27,6 @@ public class PeopleTestMyBaseSearch {
         Assert.assertEquals(people.getTableSecondName(), mockValues[1]);
         Assert.assertEquals(people.getTableName(), mockValues[2]);
 
-
+        verify(mock).queryByName("Kirill");
     }
 }

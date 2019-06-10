@@ -7,8 +7,7 @@ import org.mockito.Mockito;
 import java.sql.Connection;
 
 import static org.junit.Assert.*;
-import static org.mockito.Mockito.mock;
-import static org.mockito.Mockito.when;
+import static org.mockito.Mockito.*;
 
 public class PeopleTestMyBaseUpdate {
 
@@ -23,8 +22,8 @@ public class PeopleTestMyBaseUpdate {
 
         PeopleService peopleService = new PeopleService(mock);
 
-        Boolean res = peopleService.updateByName("Kirill", "Sazonov");
+        Assert.assertEquals(true, peopleService.updateByName("Kirill", "Sazonov"));
 
-        Assert.assertEquals(res,mock.updateByName("Kirill", "Sazonov"));
+        verify(mock).updateByName("Kirill", "Sazonov");
     }
 }
